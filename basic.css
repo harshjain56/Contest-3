@@ -1,0 +1,15 @@
+.navbar-collapse{
+   
+    display: flex;
+ justify-content: space-between;
+
+}
+
+
+.text-title{
+    
+     margin: 20px;
+     padding: 10px;
+}
+
+
